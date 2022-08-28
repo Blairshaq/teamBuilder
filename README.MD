@@ -26,5 +26,4 @@ To Run Test Suit
 2. Then the Jest testing library shall be run
 3. 2 tests shall be passed aur 2 shall be failed
 
-Video Linke
-
+Video Link
